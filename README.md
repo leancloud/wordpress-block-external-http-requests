@@ -1,2 +1,7 @@
 # WordPress Block External HTTP Requests
-WordPress plugin: Block external HTTP requests
+
+Block all external HTTP requests to make WordPress faster (in China)
+
+## License
+
+GPLv2
