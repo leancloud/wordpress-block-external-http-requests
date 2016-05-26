@@ -1,2 +1,2 @@
-# wordpress-disable-external-http-requests
-WordPress plugin: Disable external HTTP requests
+# WordPress Block External HTTP Requests
+WordPress plugin: Block external HTTP requests
